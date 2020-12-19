@@ -7,6 +7,8 @@ public class factorial2 {
 			res=res*i;
 		}
 		System.out.println(res);
+		System.out.println(res);
+		System.out.println(res);
 		
 
 	}
